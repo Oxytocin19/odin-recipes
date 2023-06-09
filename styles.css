@@ -1,0 +1,16 @@
+.blue {
+    color:blue;
+}
+.foodpic {
+    height: 30px;
+    width: auto;
+}
+.recipie-title {
+    color: red;
+}
+.index-title {
+    color: red;
+}
+.list-1, .list-2 {
+    display: inline-block;
+}
